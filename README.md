@@ -33,4 +33,4 @@ document the timing of flowering and seed production in two local eelgrass beds.
 The idea is that it may be possible to collect seed from healthy eelgrass beds
 and plant them elsewhere, so restore lost eelgrass or help support declining 
 beds nearby. Before we can experiment with these new ideas, we need to 
-understand where and when Casco BAy eelgrass tends to produce seed.
+understand where and when Casco Bay eelgrass tends to produce seed.
